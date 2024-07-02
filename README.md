@@ -61,7 +61,7 @@ sudo yum install git -y
 
 ### Clone project
 
-git clone https://github.com/BackspaceTech/node-js-sample.git
+git clone https://github.com/arongas/ec2-node-bootstrapper.git
 cd node-js-sample
 npn install
 npm start
